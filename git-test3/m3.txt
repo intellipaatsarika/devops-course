@@ -1,2 +1,2 @@
-m3 insied
+m3 in git test3
 
